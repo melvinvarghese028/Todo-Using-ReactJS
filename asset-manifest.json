@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/melvinvarghese028/Todo-Using-ReactJS/static/css/main.d80f993f.css",
+    "main.js": "/melvinvarghese028/Todo-Using-ReactJS/static/js/main.4540725f.js",
+    "index.html": "/melvinvarghese028/Todo-Using-ReactJS/index.html",
+    "main.d80f993f.css.map": "/melvinvarghese028/Todo-Using-ReactJS/static/css/main.d80f993f.css.map",
+    "main.4540725f.js.map": "/melvinvarghese028/Todo-Using-ReactJS/static/js/main.4540725f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80f993f.css",
+    "static/js/main.4540725f.js"
+  ]
+}
